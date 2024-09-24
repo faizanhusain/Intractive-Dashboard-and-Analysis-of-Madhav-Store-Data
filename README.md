@@ -14,3 +14,4 @@ From the Dashboard and Analysis of the Madhav store dataset we can see the follo
 5) Revenue and Profitability
 
 ## Dashboard
+![238180606-6a5da9ee-47ed-40cc-955b-e6b0a08f4a04](https://github.com/user-attachments/assets/1f1ef1c4-dc44-417c-b706-eb563215ff10)
