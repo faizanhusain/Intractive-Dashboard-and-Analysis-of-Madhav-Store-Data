@@ -1,2 +1,16 @@
 # Intractive-Dashboard-and-Analysis-of-Madhav-Store-Data
-The Objective of this analysis is that the owner of the Madhav Store wants us to help them create the Dashboard to track and analyze their online sales across India.
+Analyzed the Ecommerce Sales data created a interactive dashboard using PowerBi.
+## Project Learnings
+1) Created interactive dashboard to track and analyze online sales
+2) Used complex parameters to drill down in worksheet and customisation using filter and slicer.
+3) Created connections, joined new tables, caculation to manipuate the data and enable user driven parameters for visulizations.
+4) Used different types of customized visualization (Bar chart,Pie Chart,Area chart, Map, Slicers etc).
+
+From the Dashboard and Analysis of the Madhav store dataset we can see the following insights.
+1) Sales Trends
+2) Customer Behavior
+3) Product Performance
+4) Geographical Insights
+5) Revenue and Profitability
+
+## Dashboard
